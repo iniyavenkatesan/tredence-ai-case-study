@@ -12,8 +12,16 @@ This project implements a self-pruning neural network using PyTorch.
 - Sparsity ~42%
 
 ## Files
-- Notebook: self_pruning_network_iniya.ipynb
+- Notebook: self_pruning_network_iniya.py
 - Results: stored in results folder
+
+## Output Graphs
+
+### Sparsity vs Accuracy
+![Sparsity vs Accuracy](sparsity_vs_accuracy.jpeg)
+
+### Gate Value Distribution
+![Gate Distribution](gate_distribution.jpeg)
 
 ## Author
 Iniya Venkatesan
